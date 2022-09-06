@@ -21,5 +21,5 @@ permission, such as:
 - and more...
 
 
-### If you liked the stuff, you found, feel fre sto star this repo, would be cool to see other do cool things with it
+### If you liked the stuff, you found, feel free to star this repo, would be nice to see, that other folks do cool things with it
 ### Enjoy!
