@@ -13,13 +13,13 @@ i wasnt sure, in some cases stuff was combined with unedited graphics. If you en
 don't use it, or just let me know, so i can update/remove them. These unedited files obviously fall under their original authors
 permission, such as:
 
-´´´
-Minecraft,
-Buildcraft,
-IndustricalCraft2
-ComputerCraft,
-and more...
-´´´
+
+- Minecraft,
+- Buildcraft,
+- IndustricalCraft2
+- ComputerCraft,
+- and more...
+
 
 ### If you liked the stuff, you found, feel fre sto star this repo, would be cool to see other do cool things with it
 ### Enjoy!
